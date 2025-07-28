@@ -8,6 +8,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .npm
+package-lock.json
 
 # IDEs
 .vscode/
@@ -18,6 +19,11 @@ yarn-error.log*
 # OS
 .DS_Store
 Thumbs.db
+
+# Cleanup files
+cleanup-packages.ps1
+*STATUS*.md
+*SUMMARY*.md
 
 # Logs
 *.log
