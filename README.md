@@ -272,12 +272,7 @@ All functions optimized to stay within Solana limits:
 4. **Oracle Integration**: External data feeds for dynamic pricing
 5. **Mobile SDK**: React Native components for mobile apps
 
-## Support
 
-For technical support or questions:
-- GitHub Issues: [Repository URL]
-- Discord: [Discord Server]
-- Email: support@wzncard.game
 
 ---
 
