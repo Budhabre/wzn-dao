@@ -1,0 +1,50 @@
+# Rust
+/target
+Cargo.lock
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.temp/
+.tmp/
+
+# Build artifacts
+*.so
+*.dll
+*.dylib
+*.a
+*.lib
+
+# Deploy
+deploy/
+.anchor/
+test-ledger/
+
+# Keys and secrets
+id.json
+*.pem
+*.key
+.env
+.env.local
+.env.*.local
