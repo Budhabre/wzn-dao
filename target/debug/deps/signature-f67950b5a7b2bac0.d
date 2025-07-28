@@ -1,0 +1,11 @@
+C:\Users\vladi\Documents\Project\upwork\wzn-card-game\target\debug\deps\signature-f67950b5a7b2bac0.d: C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\lib.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\error.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\keypair.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\signature.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\signer.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\verifier.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\../README.md
+
+C:\Users\vladi\Documents\Project\upwork\wzn-card-game\target\debug\deps\libsignature-f67950b5a7b2bac0.rmeta: C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\lib.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\error.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\keypair.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\signature.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\signer.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\verifier.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\../README.md
+
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\lib.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\error.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\keypair.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\signature.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\signer.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\verifier.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\signature-1.6.4\src\../README.md:

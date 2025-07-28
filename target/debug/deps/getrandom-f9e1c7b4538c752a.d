@@ -1,0 +1,10 @@
+C:\Users\vladi\Documents\Project\upwork\wzn-card-game\target\debug\deps\getrandom-f9e1c7b4538c752a.d: C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\lib.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\error.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\util.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\custom.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\error_impls.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\windows.rs
+
+C:\Users\vladi\Documents\Project\upwork\wzn-card-game\target\debug\deps\libgetrandom-f9e1c7b4538c752a.rmeta: C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\lib.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\error.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\util.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\custom.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\error_impls.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\windows.rs
+
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\lib.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\error.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\util.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\custom.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\error_impls.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\windows.rs:

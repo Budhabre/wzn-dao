@@ -1,0 +1,9 @@
+C:\Users\vladi\Documents\Project\upwork\wzn-card-game\target\debug\deps\spl_type_length_value-361aa3cd0b83fc2a.d: C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-type-length-value-0.4.6\src\lib.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-type-length-value-0.4.6\src\error.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-type-length-value-0.4.6\src\length.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-type-length-value-0.4.6\src\state.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-type-length-value-0.4.6\src\variable_len_pack.rs
+
+C:\Users\vladi\Documents\Project\upwork\wzn-card-game\target\debug\deps\libspl_type_length_value-361aa3cd0b83fc2a.rmeta: C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-type-length-value-0.4.6\src\lib.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-type-length-value-0.4.6\src\error.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-type-length-value-0.4.6\src\length.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-type-length-value-0.4.6\src\state.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-type-length-value-0.4.6\src\variable_len_pack.rs
+
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-type-length-value-0.4.6\src\lib.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-type-length-value-0.4.6\src\error.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-type-length-value-0.4.6\src\length.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-type-length-value-0.4.6\src\state.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-type-length-value-0.4.6\src\variable_len_pack.rs:

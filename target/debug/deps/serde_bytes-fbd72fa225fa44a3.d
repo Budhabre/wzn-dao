@@ -1,0 +1,10 @@
+C:\Users\vladi\Documents\Project\upwork\wzn-card-game\target\debug\deps\serde_bytes-fbd72fa225fa44a3.d: C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.17\src\lib.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.17\src\bytearray.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.17\src\bytes.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.17\src\de.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.17\src\ser.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.17\src\bytebuf.rs
+
+C:\Users\vladi\Documents\Project\upwork\wzn-card-game\target\debug\deps\libserde_bytes-fbd72fa225fa44a3.rmeta: C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.17\src\lib.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.17\src\bytearray.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.17\src\bytes.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.17\src\de.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.17\src\ser.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.17\src\bytebuf.rs
+
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.17\src\lib.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.17\src\bytearray.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.17\src\bytes.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.17\src\de.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.17\src\ser.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.17\src\bytebuf.rs:

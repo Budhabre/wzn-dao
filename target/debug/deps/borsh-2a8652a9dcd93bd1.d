@@ -1,0 +1,11 @@
+C:\Users\vladi\Documents\Project\upwork\wzn-card-game\target\debug\deps\borsh-2a8652a9dcd93bd1.d: C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.10.4\src\lib.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.10.4\src\de\mod.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.10.4\src\de\hint.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.10.4\src\schema.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.10.4\src\schema_helpers.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.10.4\src\ser\mod.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.10.4\src\ser\helpers.rs
+
+C:\Users\vladi\Documents\Project\upwork\wzn-card-game\target\debug\deps\libborsh-2a8652a9dcd93bd1.rmeta: C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.10.4\src\lib.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.10.4\src\de\mod.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.10.4\src\de\hint.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.10.4\src\schema.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.10.4\src\schema_helpers.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.10.4\src\ser\mod.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.10.4\src\ser\helpers.rs
+
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.10.4\src\lib.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.10.4\src\de\mod.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.10.4\src\de\hint.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.10.4\src\schema.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.10.4\src\schema_helpers.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.10.4\src\ser\mod.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.10.4\src\ser\helpers.rs:

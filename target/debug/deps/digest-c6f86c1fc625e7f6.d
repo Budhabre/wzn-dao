@@ -1,0 +1,11 @@
+C:\Users\vladi\Documents\Project\upwork\wzn-card-game\target\debug\deps\digest-c6f86c1fc625e7f6.d: C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\lib.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\digest.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\dyn_digest.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\errors.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\fixed.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\variable.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\xof.rs
+
+C:\Users\vladi\Documents\Project\upwork\wzn-card-game\target\debug\deps\libdigest-c6f86c1fc625e7f6.rmeta: C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\lib.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\digest.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\dyn_digest.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\errors.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\fixed.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\variable.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\xof.rs
+
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\lib.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\digest.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\dyn_digest.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\errors.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\fixed.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\variable.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\xof.rs:

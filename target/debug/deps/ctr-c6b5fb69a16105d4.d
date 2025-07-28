@@ -1,0 +1,11 @@
+C:\Users\vladi\Documents\Project\upwork\wzn-card-game\target\debug\deps\ctr-c6b5fb69a16105d4.d: C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ctr-0.8.0\src\lib.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ctr-0.8.0\src\flavors.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ctr-0.8.0\src\flavors\ctr128.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ctr-0.8.0\src\flavors\ctr32.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ctr-0.8.0\src\flavors\ctr64.rs
+
+C:\Users\vladi\Documents\Project\upwork\wzn-card-game\target\debug\deps\libctr-c6b5fb69a16105d4.rlib: C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ctr-0.8.0\src\lib.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ctr-0.8.0\src\flavors.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ctr-0.8.0\src\flavors\ctr128.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ctr-0.8.0\src\flavors\ctr32.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ctr-0.8.0\src\flavors\ctr64.rs
+
+C:\Users\vladi\Documents\Project\upwork\wzn-card-game\target\debug\deps\libctr-c6b5fb69a16105d4.rmeta: C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ctr-0.8.0\src\lib.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ctr-0.8.0\src\flavors.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ctr-0.8.0\src\flavors\ctr128.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ctr-0.8.0\src\flavors\ctr32.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ctr-0.8.0\src\flavors\ctr64.rs
+
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ctr-0.8.0\src\lib.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ctr-0.8.0\src\flavors.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ctr-0.8.0\src\flavors\ctr128.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ctr-0.8.0\src\flavors\ctr32.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ctr-0.8.0\src\flavors\ctr64.rs:

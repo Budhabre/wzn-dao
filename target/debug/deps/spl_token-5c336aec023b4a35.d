@@ -1,0 +1,10 @@
+C:\Users\vladi\Documents\Project\upwork\wzn-card-game\target\debug\deps\spl_token-5c336aec023b4a35.d: C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-4.0.3\src\lib.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-4.0.3\src\error.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-4.0.3\src\instruction.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-4.0.3\src\native_mint.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-4.0.3\src\processor.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-4.0.3\src\state.rs
+
+C:\Users\vladi\Documents\Project\upwork\wzn-card-game\target\debug\deps\libspl_token-5c336aec023b4a35.rmeta: C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-4.0.3\src\lib.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-4.0.3\src\error.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-4.0.3\src\instruction.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-4.0.3\src\native_mint.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-4.0.3\src\processor.rs C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-4.0.3\src\state.rs
+
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-4.0.3\src\lib.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-4.0.3\src\error.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-4.0.3\src\instruction.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-4.0.3\src\native_mint.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-4.0.3\src\processor.rs:
+C:\Users\vladi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-4.0.3\src\state.rs:
